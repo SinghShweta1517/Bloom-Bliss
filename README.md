@@ -1,3 +1,3 @@
 # Bloom-Bliss
 
-Designed a plant app UI .
+Designed and implemented a user-friendly and aesthetically pleasing plant care app UI using Flutter.
